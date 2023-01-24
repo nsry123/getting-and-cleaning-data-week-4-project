@@ -6,7 +6,7 @@ This is the repository for Coursera's "Getting and Cleaning Data" Week 4 project
 ## Files
 CodeBook.md describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
-DataProcessing.R is the script for processing the data.
+run_analysis.R is the script for processing the data.
 
 The five steps of processing the data are:
 
